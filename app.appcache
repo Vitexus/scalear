@@ -1,0 +1,21 @@
+CACHE MANIFEST
+
+
+CACHE:
+fullscreen-icon.svg
+index.html
+logo.svg
+printer-icon.svg
+script.min.js
+script.min.js.map
+style.min.css
+
+
+NETWORK:
+*
+
+
+SETTINGS:
+prefer-online
+
+# hash: 1c6a8f233cb3c52566ed8451a31128ce063ff99963bdbe0c439aea329aaeda3e
